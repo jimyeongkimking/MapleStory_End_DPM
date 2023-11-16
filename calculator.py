@@ -5,6 +5,9 @@ def add(a,b):
 def sub(a,b):
     return a-b
 
-def multi(a,b):
+#Multyfly
+def mul(a,b):
     return a*b
+
+
 
